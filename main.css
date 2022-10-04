@@ -197,7 +197,7 @@ img{
     font-weight: 300;
     font-size: 0.9rem;
 }
-.movie-info .awards i{
+.movie-info .awards {
     color: var(--yellow-color);
-    margin: 1rem 0.7rem;
+    margin: 1rem 0.7rem 0 0;
 }
