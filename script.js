@@ -13,7 +13,7 @@ async function loadMovies(searchTerm){
     // console the data Search
     if(data.Response == 'True') displayMovieList(data.Search);
 }
-//find movies function
+//find movies functions
 function findMovies(){
     let searchTerm = (movieSearchBox.value).trim();
     // console.log(searchTerm)
